@@ -1,7 +1,7 @@
 ### Olá pessoal! Eu sou o José 👋
 
 - 🔭 Hoje trabalho com desenvolvimento mobile
-- 🌱 Estudando Python
+- 🌱 Estudando Laravel
 
 <div>
   <a href="https://github.com/jrobertustorres">
